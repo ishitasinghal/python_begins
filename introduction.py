@@ -29,6 +29,9 @@
 # a,b=b,a
 # print(a,b)
 
+####Reverse of a list
+##list1[::-1]
+
 # for i in range(0,10):
 #     print('Hello World ',i)
 
