@@ -12,7 +12,6 @@
 # print('Result is: ', res)
 
 #program performing operations according to user
-
 # a = int(input('enter one number'))
 # b = int(input('enter second number'))
 #
