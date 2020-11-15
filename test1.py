@@ -1,7 +1,4 @@
 #Basic programs in Python
-
-
-
 ###1. Write a Python program to find the repeated items of a tuple.###
 
 # tuple1 = ('Apple', 34, 'Chocolates', 45.6, 'd', True, 'Apple', 'Chocolates', 'Bananas', 45.6)
